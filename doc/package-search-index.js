@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"day_1"},{"l":"Day_2"},{"l":"Day_3"},{"l":"Day_4"},{"l":"Dynamic_table"},{"l":"Practise_"},{"l":"Screen_shot"},{"l":"Task_1"}];updateSearchResults();
